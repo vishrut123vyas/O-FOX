@@ -229,6 +229,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ for the future of intelligent systems**
+**Built with ❤️ and passion for the future of intelligent systems**
+
 
 *Q-FOX - Where quantum inspiration meets practical optimization* 
